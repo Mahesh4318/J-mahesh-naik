@@ -1,0 +1,32 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: #fff;
+}
+.footer h1{
+    color: red;
+    text-transform:capitalize;
+}
+.footer div{
+    padding: 0 10px;
+}
+.footer div p{
+    font-size: 20px;
+    color: white;
+    padding-bottom: 10px;
+}
+.icons{
+
+    margin: 20px; 
+}
+
+.icons span i{
+    font-size: 30px;
+    padding: 7px;
+    /* background-color: red; */
+    border-radius: 50%;
+    cursor: pointer;
+}

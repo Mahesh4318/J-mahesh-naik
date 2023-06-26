@@ -1,0 +1,13 @@
+@media screen and (width <= 600px) {
+    
+    body{
+        background-color: black;
+        height: 100%;
+        width: 100%;
+    }
+    .menuBarForContact{
+        opacity: 0;
+        /* display: none; */
+    }
+    
+}
