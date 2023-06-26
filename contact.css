@@ -6,7 +6,7 @@
 }
 
 .contactme {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     background-image: url('assets2/1.jpg');
     background-repeat: no-repeat;
@@ -22,8 +22,6 @@ a {
 .contactmelayer {
     height: 100%;
     width: 100%;
-    /* border: 4px solid rgb(72, 255, 0); */
-
     background-color: rgba(0, 0, 0, 0.567);
 }
 
